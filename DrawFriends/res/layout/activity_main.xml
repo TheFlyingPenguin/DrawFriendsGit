@@ -1,0 +1,133 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity" >
+    <!--  
+    <activity
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:configChanges="orientation|keyboardHidden|keyboard"
+        android:screenOrientation="landscape"
+        android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+
+    <Button
+        android:id="@+id/clearBtn"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:text="@string/clear" />
+
+    <Button
+        android:id="@+id/blackBtn"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/clearBtn"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="14dp" />
+
+    <Button
+        android:id="@+id/brownBtn"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/blackBtn"
+        android:layout_alignParentRight="true" />
+
+    <Button
+        android:id="@+id/redBtn"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/brownBtn"
+        android:layout_alignParentRight="true" />
+
+    <Button
+        android:id="@+id/yellowBtn"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/redBtn"
+        android:layout_alignParentRight="true" />
+
+    <Button
+        android:id="@+id/blueBtn"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/yellowBtn"
+        android:layout_alignParentRight="true" />
+
+    <Button
+        android:id="@+id/greenBtn"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/blueBtn"
+        android:layout_alignParentRight="true" />
+
+    <Button
+        android:id="@+id/purpleBtn"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/redBtn"
+        android:layout_alignBottom="@+id/redBtn"
+        android:layout_toLeftOf="@+id/redBtn" />
+
+    <Button
+        android:id="@+id/orangeBtn"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/brownBtn"
+        android:layout_alignBottom="@+id/brownBtn"
+        android:layout_toLeftOf="@+id/brownBtn" />
+
+    <Button
+        android:id="@+id/whiteBtn"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/blackBtn"
+        android:layout_toLeftOf="@+id/blackBtn" />
+
+    <Button
+        android:id="@+id/smallBtn"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/purpleBtn"
+        android:layout_alignTop="@+id/greenBtn"
+        android:text="Small" />
+
+    <Button
+        android:id="@+id/largeBtn"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/blueBtn"
+        android:layout_alignBottom="@+id/blueBtn"
+        android:layout_toLeftOf="@+id/yellowBtn"
+        android:text="Large" />
+
+    <Button
+        android:id="@+id/greyBtn"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/yellowBtn"
+        android:layout_alignBottom="@+id/yellowBtn"
+        android:layout_alignRight="@+id/purpleBtn" />
+    
+    <com.example.drawfriends.DrawSurface
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"/>
+		
+		-->
+
+</RelativeLayout>
+

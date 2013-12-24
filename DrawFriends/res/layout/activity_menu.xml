@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/menudrawfriends3"
+    android:keepScreenOn="true" >
+<!--   android:layout_marginRight="30dp"-->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="30" >
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="10"
+            android:gravity="center_horizontal|center"
+            android:orientation="vertical" >
+
+            <Button
+                android:id="@+id/buttonStart"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="@string/menustart" />
+
+            <Button
+                android:id="@+id/buttonInstruct"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="@string/instructions" />
+
+            <Button
+                android:id="@+id/buttonCredits"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="@string/credits" />
+
+            <Button
+                android:id="@+id/buttonExit"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="@string/menuexit" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

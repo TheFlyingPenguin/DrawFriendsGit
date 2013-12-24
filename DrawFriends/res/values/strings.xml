@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Draw Friends</string>
+    <string name="menu_settings">Settings</string>
+    <string name="clear">Clear</string>
+    <string name="btn_small">Small</string>
+    <string name="btn_large">Large</string>
+    <string name="btn_undo">Undo</string>
+    <string name="timer">00</string>
+    <string name="object">DrawFriends</string>
+    <string name="guess">Guess</string>
+    <string name="connect">Connect to a Device</string>
+    <string name="discoverable">Make Device Discoverable</string>
+    <string name="bt_not_enabled_leaving">Bluetooth is not enabled. Exiting…</string>
+    <string name="not_connected">Not connected to a device</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Devices</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="scanning">scanning for devices…</string>
+    <string name="select_device">select a device to connect to</string>
+    <string name="startButton">Start Drawing</string>
+    <string name="menu_title">Draw Friends</string>
+    <string name="instruct_msg1">Hello , this is the first message of the instructions</string>
+    <string name="instruct_page1">1. In the canvas, click menu. \n2. Phone A must choose &quot;Enable Discoverability.&quot;\n3. Phone B must choose &quot;Connect to a device&quot; for a list of bluetooth discovered devices.\n4. From the list, choose the device that corresponds to Phone A.\n5. A message with a passkey on both phones will appear to confirm it has been connected to the correct device.\n6. Click &quot;OK&quot; to begin drawing.</string>
+    <string name="instruct_page2">1. Draw within the white space.\n2. Undo button deletes the last line.\n3. Clear button erases all lines drawn by your device.\n4. Small/Large buttons toggle brush size.\n5. Coloured buttons change brush colour.</string>
+    <string name="next">Next</string>
+    <string name="exit">Exit</string>
+    <string name="start">Start</string>
+    <string name="screenshot">Save a Screenshot</string>
+    <string name="filenamelabel">File Name:</string>
+    <string name="save">Save</string>
+    <string name="btnlinesubmit">@android:string/ok</string>
+    <string name="btn_line">Line</string>
+    <string name="credits">Credits</string>
+    <string name="instructions">Instructions</string>
+    <string name="menustart">Start</string>
+    <string name="menuexit">Exit</string>
+    <string name="onclick">onClick()</string>
+
+</resources>
