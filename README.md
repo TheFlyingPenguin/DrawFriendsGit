@@ -1,4 +1,4 @@
 DrawFriendsGit
 ==============
 
-Bluetooth based social guess-the-word drawing application.
+Draw on the same canvas with friends over bluetooth.
